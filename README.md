@@ -8,7 +8,12 @@
 <br />
 <br />
 The application presents a cloud computing trivia game, its main goal is to teach the user cloud computing from the basic level to an advanced level.
-The user can log in or sign up to enter the application. The app includes these screens: Login page, Sign Up page, Landing page, Tutorial page, Add question page, Edit Question page, Leaderboard Page, Admin page, Game page, Results game via graph page, Rank Shop page
+The user can log in or sign up to enter the application. The app includes these screens: Login page, Sign Up page, Landing page, Tutorial page, Add question page, Edit Question page, Leaderboard Page, Admin page, Game page, Results game via graph page, Rank Shop page.
+
+
+https://github.com/Sabeel-Hamood/Pacathon/assets/116495058/959e2bd0-b7d7-4ef4-8b47-52aa10d3c022
+
+
 
 <br />
 <br />
