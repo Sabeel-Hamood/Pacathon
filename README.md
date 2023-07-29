@@ -29,6 +29,8 @@ People who are interested in learning cloud computing or expanding and deepening
 - <b>JavaScript </b>
 - <b>HTML </b>
 - <b>CSS </b>
+<h2>The development team</h2>
+- The team consists of 6 students
 
 
 
